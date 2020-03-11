@@ -1,4 +1,4 @@
-# linux-commentsense
+# linux-commen-sense
 ubuntu linux一些命令的学习
 
 ## linux cd与ls命令用法
