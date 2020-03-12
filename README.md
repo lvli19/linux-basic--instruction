@@ -29,6 +29,10 @@ https://www.cnblogs.com/yikuaiqian/p/9466825.html
 ## sudoer详解
 https://www.cnblogs.com/yanling-coder/p/10947157.html
 
+## sudo apt-get 与 yum 常用命令
+https://www.cnblogs.com/iupoint/p/10880888.html
+
+
 
 
  
