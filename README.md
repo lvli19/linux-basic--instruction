@@ -33,6 +33,8 @@ https://www.cnblogs.com/yanling-coder/p/10947157.html
 https://www.cnblogs.com/iupoint/p/10880888.html
 
 
+## Ubuntu 安装使用yum
+https://blog.csdn.net/qq_26462567/article/details/84099835
 
 
  
